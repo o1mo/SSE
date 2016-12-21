@@ -1,0 +1,14 @@
+{
+  "name": "sse-demo",
+  "version": "1.0.0",
+  "description": "A short demo of server-sent-events",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Omar Mohamed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
