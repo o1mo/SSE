@@ -17,7 +17,7 @@ http.createServer(function(req, res) {
   }
 }).listen(3000);
 
-console.log('listening');
+console.log('listening on 3000');
 
 function sendSSE(req, res) {
   res.writeHead(200, {

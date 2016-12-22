@@ -9,6 +9,5 @@
   "author": "Omar Mohamed",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
   }
 }
